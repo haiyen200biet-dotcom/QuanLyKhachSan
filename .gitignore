@@ -1,0 +1,31 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+VSWorkspaceState.json
+slnx.sqlite
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio cache
+*.cache
+*.Up2Date
+*.FileListAbsolute.txt
+*.csproj.AssemblyReference.cache
+*.csproj.CoreCompileInputs.cache
+*.csproj.GenerateResource.cache
+*.exe.config
+
+# SQLite files
+*.sqlite
+*.db
+
+# NuGet Packages
+packages/
+*.nupkg
