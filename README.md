@@ -3,12 +3,9 @@ Phần mềm quản lý khách sạn c# code theo mô hình 3 lớp sử dụng 
 
 
 <p>Tài khoản đăng nhập </p>
-<p>chức năng Admin:          admin|khachsanpro </p>
-</p> chức năng Lễ Tân:      linhkute|linh1234</p>
+<p>chức năng Admin:          admin|123456 </p>
+</p> chức năng Lễ Tân:      letan1|123456</p>
 
-![alt text](https://github.com/hungdannt/QuanLyKhachSanEF/blob/master/Screenshot/admin.png)
-![alt text](https://github.com/hungdannt/QuanLyKhachSanEF/blob/master/Screenshot/login.png)
-![alt text](https://github.com/hungdannt/QuanLyKhachSanEF/blob/master/Screenshot/splash.png)
-![alt text](https://github.com/hungdannt/QuanLyKhachSanEF/blob/master/Screenshot/letan.png)
+
 
 
